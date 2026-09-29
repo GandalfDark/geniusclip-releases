@@ -37,7 +37,7 @@
 - **Instant replay.** GeniusClip records in the background all the time. When something good happens, press <kbd>Alt</kbd> + <kbd>F8</kbd> and the last minutes are saved as a clip — you never have to remember to hit record. You choose how much to keep, up to an hour.
 - **Screenshots and recordings.** <kbd>Alt</kbd> + <kbd>F6</kbd> takes a screenshot, <kbd>Alt</kbd> + <kbd>F7</kbd> starts and stops a regular recording.
 - **In-game menu.** <kbd>Alt</kbd> + <kbd>X</kbd> opens a menu over the game with your latest clips, a player and quick settings. It is a separate window and nothing is injected into the game, so it is safe with anti-cheat.
-- **Light on your PC.** The video is encoded by your NVIDIA, AMD or Intel graphics, so your frame rate barely changes. Frames where nothing moved aren't encoded again.
+- **Light on your PC.** The video is encoded by your NVIDIA, AMD or Intel graphics, so your frame rate barely changes. Frames where nothing moved aren't encoded again. With *Only in games* turned on, capture pauses outside games altogether.
 - **Clean sound.** Game and microphone are saved as separate tracks. Optional noise suppression removes keyboard clicks and fan hum from your mic.
 - **Gallery and trimming.** Clips are sorted by game, with search and favorites. Cut what you don't need and set the game and mic volume separately.
 - **Easy to share.** *Send* copies a clip, so you can paste it into Discord or Telegram with <kbd>Ctrl</kbd> + <kbd>V</kbd>.
